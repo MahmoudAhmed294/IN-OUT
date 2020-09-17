@@ -1,0 +1,233 @@
+{
+    "Sofa3Seat": [{
+            "id": 1,
+            "Name": "MARSILIA كنبه 3 مقعد ",
+            "price": 18000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "Sofa-3-seat",
+            "offer": 15,
+            "img": "../img/Sofa3Seat/1.png"
+
+        },
+        {
+            "id": 2,
+            "Name": "BERRY كنبه 3 مقعد ",
+            "price": 15000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "Sofa-3-seat",
+            "offer": 30,
+            "img": "../img/Sofa3Seat/2.png"
+
+        },
+        {
+            "id": 3,
+            "Name": "LUCAS كنبه 3 مقعد ",
+            "price": 10000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "Sofa-3-seat",
+            "offer": 50,
+            "img": "../img/Sofa3Seat/3.png"
+
+        }
+    ],
+    "Sofa2Seat": [{
+            "id": 4,
+            "Name": "MARSILIA كنبه 2 مقعد ",
+            "price": 6000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "Sofa-2-seat",
+            "offer": 50,
+            "img": "../img/Sofa2Seat/1.png"
+
+        },
+        {
+            "id": 5,
+            "Name": "BERRY كنبه 2 مقعد ",
+            "price": 5000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "Sofa-2-seat",
+            "offer": 20,
+            "img": "../img/Sofa2Seat/2.png"
+
+        },
+        {
+            "id": 6,
+            "Name": "LUCAS كنبه 2 مقعد ",
+            "price": 5800,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "Sofa-2-seat",
+            "offer": 30,
+            "img": "../img/Sofa2Seat/3.1.png"
+
+        }
+
+    ],
+
+    "chair": [{
+            "id": 7,
+            "Name": "MARSILIA فوتيه ",
+            "price": 3000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "chair",
+            "offer": 5,
+            "img": "../img/chair/1.png"
+
+        },
+        {
+            "id": 8,
+            "Name": "BERRY فوتيه ",
+            "price": 2000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "chair",
+            "offer": 10,
+            "img": "../img/chair/2.png"
+
+        },
+        {
+            "id": 9,
+            "Name": "LUCAS فوتيه ",
+            "price": 6500,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "chair",
+            "offer": 15,
+            "img": "../img/chair/3.png"
+
+        }
+
+    ],
+    "salon": [{
+            "id": 10,
+            "Name": "Smart ",
+            "price": 30000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "salon",
+            "offer": 10,
+            "img": "../img/salon/1.png"
+
+        },
+        {
+            "id": 11,
+            "Name": "salon ",
+            "price": 20000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "chair",
+            "offer": 0,
+            "img": "../img/salon/2.png"
+
+        },
+        {
+            "id": 12,
+            "Name": "LUCAS  ",
+            "price": 15000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "salon",
+            "offer": 15,
+            "img": "../img/salon/3.png"
+
+        }
+
+    ],
+    "SofaCorner": [{
+            "id": 13,
+            "Name": "Smart ",
+            "price": 30000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "SofaCorner",
+            "offer": 10,
+            "img": "../img/SofaCorner/1.png"
+
+        },
+        {
+            "id": 14,
+            "Name": "Lion ",
+            "price": 20000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "SofaCorner",
+            "offer": 0,
+            "img": "../img/SofaCorner/2.png"
+
+        },
+        {
+            "id": 15,
+            "Name": "LUCAS  ",
+            "price": 15000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "SofaCorner",
+            "offer": 15,
+            "img": "../img/SofaCorner/3.png"
+
+        }
+
+    ],
+    "newItem": [
+        {
+            "id": 16,
+            "Name": "Lion ",
+            "price": 20000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "newItem",
+            "offer": 0,
+            "img": "../img/newItem/6.png"
+
+        },
+        {
+            "id": 17,
+            "Name": "LUCAS  ",
+            "price": 15000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "newItem",
+            "offer": 15,
+            "img": "../img/newItem/3.png"
+
+        }
+     
+    ],
+    "offers": [
+        {
+            "id": 18,
+            "Name": "Lion ",
+            "price": 20000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "offers",
+            "offer": 5,
+            "img": "../img/offers/2.png"
+
+        },
+        {
+            "id": 19,
+            "Name": "LUCAS  ",
+            "price": 15000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "offers",
+            "offer": 15,
+            "img": "../img/offers/1.png"
+
+        }
+     
+    ],
+    "Special": [
+        {
+            "id": 20,
+            "Name": "Lion ",
+            "price": 20000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "offers",
+            "offer": 0,
+            "img": "../img/Special/5.png"
+
+        },
+        {
+            "id": 21,
+            "Name": "LUCAS  ",
+            "price": 15000,
+            "details": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempora quasi debitis, laudantium, asperiores voluptas placeat in veniam culpa omnis alias voluptates autem molestias repudiandae quam, facere dolores voluptatem mollitia! ",
+            "type": "offers",
+            "offer": 15,
+            "img": "../img/Special/4.png"
+
+        }
+     
+    ]
+
+
+}
