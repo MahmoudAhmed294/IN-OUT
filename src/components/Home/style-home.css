@@ -1,0 +1,85 @@
+
+.Link_ShopNow{
+    padding: 20px 35px;
+    color: white;
+    background-color: brown;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.Link_ShopNow:hover{
+    color: white;
+    text-decoration: none;
+}
+.carousel-caption{
+    bottom: 0;
+    top: 30%;
+
+}
+.carousel-caption h2{
+    line-height: 4;
+}
+.shadowOnimg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #1F1F1F;
+    opacity: 0.3;
+    z-index: 5;
+}
+
+.carousel-indicators li{
+height: 15px;
+    width: 15px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    opacity: 1;
+    margin-right: 0;
+    margin-left: 1px;
+
+
+}
+.carousel-indicators .active{
+    width: 30px;
+    transform: translateY(2px);
+}
+.img-content_Home{
+    height: 100%;
+    display: block;
+    position: relative;
+
+}
+.img_Home{
+    max-width: 100%;
+    min-width: 100%;
+    min-height: 100%;
+
+}
+.Title-img-content{
+    position: absolute;
+    bottom: 0;
+    padding: 20px;
+    color: white;
+
+}
+.overlay{
+
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+background: black;
+opacity: 0.2;
+}
+.hover--contact_home:hover{
+    transform: scale(1.05,1.05);
+    transition: 0.5s;
+
+}
+
